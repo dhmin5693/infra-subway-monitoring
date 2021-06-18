@@ -83,17 +83,14 @@ B. 경쟁사 분석
     - Total Blocking Time       : 60 ms
     - Largest Contentful Paint  : 5.5 s    
 
-  - 경쟁사 대비 최소 동등, 20% 이상의 성능
-
-C. 성능 목표
+C. 성능 목표: 경쟁사 대비 최소 동등, 20% 이상의 성능
   - First Contentful Paint    : 2초 미만
-  - Time to Interactive       : 4.5초 미만
-  - Speed Index               : 5초 미만
-  - Total Blocking Time       : 0.1초 미만
+  - Time to Interactive       : 4초 미만
+  - Speed Index               : 5.5초 미만
+  - Total Blocking Time       : 0.05초 미만
   - Largest Contentful Paint  : 4.5초 미만
 
-``` 
-
+```
 
 2. 웹 성능예산을 바탕으로 현재 지하철 노선도 서비스는 어떤 부분을 개선하면 좋을까요
 
